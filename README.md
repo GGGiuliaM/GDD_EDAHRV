@@ -29,7 +29,7 @@ For more details, refer to the [paper](insert-link-to-your-paper-if-available) N
 
 | Script | Description | Uses Dataset |
 |--------|------------|-------------|
-| [statistic.py](code/Statistics/statistic.py) | Performs ANOVA/FRIEDMAN statistical analysis on features for the level analysis. | `Dataset_Original_Reduced_levels.xlsx` |
+| [Statistic.py](code/Statistics/Statistic.py) | Performs ANOVA/FRIEDMAN statistical analysis on features for the level analysis. | `Dataset_Original_Reduced_levels.xlsx` |
 | [vis_corrMatrix.py](code/Statistics/vis_corrMatrix.py) | Script to compute and visualize the correlation matrix | `selected_Dataset_7_stat.xlsx` |
 | [vis_radar_boxplot.py](code/Statistics/vis_radar_boxplot.py) | Script to visualize boxplots and radar plot| `selected_Dataset_7_stat.xlsx` |
 | [main_ML_loso.py](code/ML/main_ML_loso.py) | Performs level classification with LOSO cross validation. Models: KNN, SVM, RF, XGBoost( with SHAP). 5 seeds repetition.| `selected_Dataset_7_stat.xlsx`,  `selected_Dataset_5_stat.xlsx`,  `selected_Dataset_3_stat.xlsx` |
