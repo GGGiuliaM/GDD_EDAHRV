@@ -15,7 +15,7 @@ For more details, refer to the [paper](insert-link-to-your-paper-if-available) N
 |------|-------------|---------|
 | [Dataset_Original_Completo.xlsx](data/Dataset_Original_Completo.xlsx) | Complete original dataset with all computed features and data points. | General reference |
 | [Dataset_Original_Reduced_forMM.xlsx](data/Dataset_Original_Reduced_forMM.xlsx) | Dataset for Linear Mixed Models, reduced troughout feature selection. For each feature cluster, the feature most correlated with **performance** is selected. | Influencing factors, `scripts/Mixedmodels.py` |
-| [game_meanPerf.xlsx](data/game_meanPerf.xlsx) | Features averaged across levels. Features are selected using top correlation with **performance**.  | Jamovi - Performance correlation study |
+| [game_mean_Perf.xlsx](data/game_meanPerf.xlsx) | Features averaged across levels. Features are selected using top correlation with **performance**.  | Jamovi - Performance correlation study |
 | [game_mean_PSS.xlsx](data/game_mean_PSS.xlsx) | Features averaged across levels. Features are selected using top correlation with **Perceived Stress Score (PSS)**. | Jamovi- Baseline Stress related correlation study |
 | [H_data_original.csv](data/H_data_original.csv) | Features as obtained by the EDA analysis. | General reference, used to complete: `Dataset_Original_Completo.xlsx`  |
 | [Dataset_Original_Reduced_levels.xlsx](data/Dataset_Original_Reduced_levels.xlsx) | Official reduced dataset for **level** analysis, based on clusters. Picks the feature most correlated with level label. | Statistical Analysis `code/statistic.py` |
