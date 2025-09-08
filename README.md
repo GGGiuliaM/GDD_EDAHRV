@@ -46,6 +46,11 @@ For more details, refer to the [paper](insert-link-to-your-paper-if-available) N
 | [results_NF7](code/ML/results_NF7) | Results obtained from the ML pipeline for features set = 7 | `main_ML_loso.py`  |
 | [significant_performance_features_report.csv](code/Influencingfactors/significant_performance_features_report.csv) | Results of the Linear Mixed Models, that analizes the effect of performance. | Influencing factors, `Mixedmodels.py` |
 
+## License
+
+- **Code**: Licensed under the [MIT License](LICENSE).  
+- **Datasets**: Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+  - You are free to share and adapt the datasets, but you must provide appropriate credit to the original authors.
 
 
 
