@@ -34,8 +34,8 @@ For more details, refer to the [paper](insert-link-to-your-paper-if-available) N
 | [vis_corrMatrix.py](code/Statistics/vis_corrMatrix.py) | Script to compute and visualize the correlation matrix | `selected_Dataset_7_stat.xlsx` |
 | [vis_radar_boxplot.py](code/Statistics/vis_radar_boxplot.py) | Script to visualize boxplots and radar plot| `selected_Dataset_7_stat.xlsx` |
 | [main_ML_loso.py](code/ML/main_ML_loso.py) | Performs level classification with LOSO cross validation. Models: KNN, SVM, RF, XGBoost( with SHAP). 5 seeds repetition.| `selected_Dataset_7_stat.xlsx`,  `selected_Dataset_5_stat.xlsx`,  `selected_Dataset_3_stat.xlsx` |
-| [vis_accuracy_CM.py](code/ML/vis_accuracy_CM.py) | script to visualize the accuracy comparison plot across seeds and the best model confusion matrix | `selected_Dataset_7_stat.xlsx`,  `selected_Dataset_5_stat.xlsx`,  `selected_Dataset_3_stat.xlsx` |
-| [vis_featImportance.py](code/ML/vis_featImportance.py) | script to visualize the ranking obtained from SHAP values across 5 seeds| `selected_Dataset_7_stat.xlsx`,  `selected_Dataset_5_stat.xlsx`,  `selected_Dataset_3_stat.xlsx` |
+| [vis_accuracy_CM.py](code/ML/vis_accuracy_CM.py) | script to visualize the accuracy comparison plot across seeds and the best model confusion matrix | `results_NF3`,  `results_NF5`,  `results_NF7` |
+| [vis_featImportance.py](code/ML/vis_featImportance.py) | script to visualize the ranking obtained from SHAP values across 5 seeds|  `results_NF3`,  `results_NF5`,  `results_NF7` |
 | [mixedml.py](code/Influencingfactors/mixedlm.py) | Performs Linear Mixed Model analysis to evaluate performance effects on features. | `Dataset_Original_Reduced_forMM.xlsx` |
 
 ## Results
