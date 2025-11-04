@@ -6,7 +6,8 @@ This repository contains the main datasets and scripts used in the study **“Sh
 
 The provided code performs statistical analyses and classification to detect short-term stress responses and discriminate game levels based on arousal. These resources support the findings presented in the paper, which demonstrate the feasibility of using lightweight wearable systems for monitoring stress during interactive gameplay.  
 
-For more details, refer to the [paper](https://www.mdpi.com/1424-8220/25/21/6572)  
+For more details, refer to the [paper](https://www.mdpi.com/1424-8220/25/21/6572)
+Masi, G.; Amprimo, G.; Rechichi, I.; Olmo, G.; Ferraris, C. Short-Term Detection of Dynamic Stress Levels in Exergaming with Wearables. Sensors 2025, 25, 6572. [doi](https://doi.org/10.3390/s25216572)
 
 ---
 
